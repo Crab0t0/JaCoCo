@@ -1,4 +1,5 @@
 package ru.netology.qa;
+
 import org.jetbrains.annotations.NotNull;
 
 public class StatisticsService {
